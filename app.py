@@ -14,7 +14,7 @@ model = joblib.load("car_ship_svm.joblib")
 
 st.set_page_config(
     page_title="Car vs Ship Classifier",
-    page_icon="🚗",
+    page_icon=" ",
     layout="centered"
 )
 
